@@ -1,0 +1,10 @@
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\bin\Debug\BTTH_C6_BT2.exe.config
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\bin\Debug\BTTH_C6_BT2.exe
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\bin\Debug\BTTH_C6_BT2.pdb
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\obj\Debug\BTTH_C6_BT2.csproj.AssemblyReference.cache
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\obj\Debug\BTTH_C6_BT2.Form1.resources
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\obj\Debug\BTTH_C6_BT2.Properties.Resources.resources
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\obj\Debug\BTTH_C6_BT2.csproj.GenerateResource.cache
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\obj\Debug\BTTH_C6_BT2.csproj.CoreCompileInputs.cache
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\obj\Debug\BTTH_C6_BT2.exe
+D:\IT93\LTGD\BTTH_C6_BT2\BTTH_C6_BT2\obj\Debug\BTTH_C6_BT2.pdb

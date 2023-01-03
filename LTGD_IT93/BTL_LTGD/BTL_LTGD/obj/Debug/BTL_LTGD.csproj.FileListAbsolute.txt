@@ -1,0 +1,26 @@
+c:\users\asus\documents\visual studio 2015\Projects\BTL_LTGD\BTL_LTGD\bin\Debug\BTL_LTGD.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\bin\Debug\BTL_LTGD.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\bin\Debug\BTL_LTGD.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form3.resources
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\bin\Debug\BTL_LTGD.exe.config
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\bin\Debug\BTL_LTGD.exe
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\bin\Debug\BTL_LTGD.pdb
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.csproj.AssemblyReference.cache
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form1.resources
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form2.resources
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form3.resources
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Properties.Resources.resources
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.csproj.GenerateResource.cache
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.csproj.CoreCompileInputs.cache
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.exe
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.pdb
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form4.resources
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.Form5.resources
+D:\IT93\LTGD\LTGD_IT93\BTL_LTGD\BTL_LTGD\obj\Debug\BTL_LTGD.csproj.SuggestedBindingRedirects.cache

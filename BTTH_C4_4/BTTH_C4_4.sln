@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTTH_C4_4", "BTTH_C4_4.csproj", "{2A722E2C-A3C1-466A-B83A-17B40CE7A747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A722E2C-A3C1-466A-B83A-17B40CE7A747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A722E2C-A3C1-466A-B83A-17B40CE7A747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A722E2C-A3C1-466A-B83A-17B40CE7A747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A722E2C-A3C1-466A-B83A-17B40CE7A747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54903C41-1DA6-4502-A5BD-D7968AB0368F}
+	EndGlobalSection
+EndGlobal

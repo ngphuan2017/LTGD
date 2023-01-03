@@ -1,0 +1,11 @@
+D:\IT93\LTGD\BTTH_C4_4\bin\Debug\BTTH_C4_4.exe.config
+D:\IT93\LTGD\BTTH_C4_4\bin\Debug\BTTH_C4_4.exe
+D:\IT93\LTGD\BTTH_C4_4\bin\Debug\BTTH_C4_4.pdb
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.csproj.AssemblyReference.cache
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.frmMain.resources
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.frmLogin.resources
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.Properties.Resources.resources
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.csproj.GenerateResource.cache
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.csproj.CoreCompileInputs.cache
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.exe
+D:\IT93\LTGD\BTTH_C4_4\obj\Debug\BTTH_C4_4.pdb
